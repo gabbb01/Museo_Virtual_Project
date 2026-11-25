@@ -1,0 +1,6 @@
+@WebApiMuseoVirtual_HostAddress = http://localhost:5229
+
+GET {{WebApiMuseoVirtual_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
